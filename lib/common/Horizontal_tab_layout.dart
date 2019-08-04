@@ -98,22 +98,17 @@ class _HorizontalTabLayoutState extends State<HorizontalTabLayout>
       [
         ForumCard(forum: fortniteForum),
         ForumCard(forum: pubgForum),
-        ForumCard(forum: fortniteForum),
-        ForumCard(forum: pubgForum),
+       
       ],
       [
         ForumCard(forum: fortniteForum),
         ForumCard(forum: fortniteForum),
-        ForumCard(forum: fortniteForum),
-        ForumCard(forum: pubgForum)
+        
       ],
       [
         ForumCard(forum: fortniteForum),
         ForumCard(forum: pubgForum),
-        ForumCard(forum: fortniteForum),
-        ForumCard(forum: pubgForum),
-        ForumCard(forum: pubgForum),
-        ForumCard(forum: pubgForum),
+      
       ]
     ][index];
   }
